@@ -351,7 +351,9 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 .work li p{
   clear: both;
 }
-
+#portfolio{
+  background-color: #31b0d5
+}
 /* Portfolio */
 .image{
   position: relative;
