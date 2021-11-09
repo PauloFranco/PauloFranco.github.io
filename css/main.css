@@ -584,12 +584,9 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 
 .emerald > span {
   background-color: #2ecc71;
-
 }
-
 .carrot > span {
   background-color: #e67e22;
-
 }
 .wisteria > span{
   background-color: #8e44ad;
@@ -605,6 +602,12 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 }
 .asbestos > span{
   background-color: #7f8c8d;
+}
+.sky > span{
+  background-color: #24cdda;
+}
+.shock > span{
+  background-color: #da2494;
 }
 .nostripes > span > span, .nostripes > span:after {
   -webkit-animation: none;
